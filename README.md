@@ -6,3 +6,5 @@ install the style [here](https://userstyles.world/style/19351/vert-styles), and 
 
 [homepage](https://rentry.co/vertsh) <br>
 [guide](https://rentry.co/vertshg)
+
+[filter](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/zettaexa/verttweaks/refs/heads/main/filter.txt&title=vert%20tweaks)
